@@ -1,0 +1,15 @@
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\bin\Debug\net6.0\SortOfStringFrecuency.exe
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\bin\Debug\net6.0\SortOfStringFrecuency.deps.json
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\bin\Debug\net6.0\SortOfStringFrecuency.runtimeconfig.json
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\bin\Debug\net6.0\SortOfStringFrecuency.dll
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\bin\Debug\net6.0\SortOfStringFrecuency.pdb
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.csproj.AssemblyReference.cache
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.AssemblyInfoInputs.cache
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.AssemblyInfo.cs
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.csproj.CoreCompileInputs.cache
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.dll
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\refint\SortOfStringFrecuency.dll
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.pdb
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\SortOfStringFrecuency.genruntimeconfig.cache
+C:\Users\Skynet\source\repos\SortOfStringFrecuency\SortOfStringFrecuency\obj\Debug\net6.0\ref\SortOfStringFrecuency.dll
